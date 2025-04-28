@@ -35,7 +35,7 @@ This project includes real-time WebSocket notifications for live order updates!
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/enlog-ecommerce-backend.git
+git clone [https://github.com/Omkar-Abhang/Ecommerce_Backend.git](https://github.com/Omkar-Abhang/Ecommerce_Backend.git)
 cd enlog-ecommerce-backend
 ```
 
